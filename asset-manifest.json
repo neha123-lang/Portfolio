@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.efc08529.css",
+    "main.js": "/Portfolio/static/js/main.5c778e14.js",
+    "static/media/NehaResume.pdf": "/Portfolio/static/media/NehaResume.20a346bff9cd018c359a.pdf",
+    "static/media/background.jpg": "/Portfolio/static/media/background.d1ccc19520f932ed9696.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.efc08529.css.map": "/Portfolio/static/css/main.efc08529.css.map",
+    "main.5c778e14.js.map": "/Portfolio/static/js/main.5c778e14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efc08529.css",
+    "static/js/main.5c778e14.js"
+  ]
+}
