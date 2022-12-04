@@ -23,15 +23,15 @@ function Contact() {
     <article className="contact__option">
       <MdOutlineEmail className='contact__option-icon'/>
       <h4>Email</h4>
-   <h5>nehakuhfirueh@fmhgriu</h5>
-   <a href="mailto:dummy@gmail.com" target='_blank'>Send a message</a>
+   <h5>nehakumari39584@gmail.com</h5>
+   <a href="mailto:nehakumari39584@gmail.com" target='_blank'>Send a message</a>
     </article>
-    <article className="contact__option">
+    {/* <article className="contact__option">
       <FaFacebookMessenger className='contact__option-icon'/>
       <h4>Messanger</h4>
    <h5>ugtrjgoji</h5>
    <a href="https/hfiru.com " target='_blank'>Send a message</a>
-    </article>
+    </article> */}
     <article className="contact__option">
       <BsWhatsapp className='contact__option-icon'/>
       <h4>Whatsaap</h4>
